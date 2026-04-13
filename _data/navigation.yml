@@ -1,4 +1,7 @@
-# main links
-main: []
-  # - title: "Über uns"
-  #   url: /ueber-uns/
+main:
+  - title: "Home"
+    url: /
+  - title: "Gemeinschaftshaus"
+    url: /gemeinschaftshaus/
+  - title: "Kontakt"
+    url: /kontakt/

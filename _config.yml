@@ -5,11 +5,16 @@ description: >-
 baseurl: ""
 url: "https://leutschenbach.ch"
 minimal_mistakes_skin: "default"
+logo: "/assets/images/logo.jpeg"
 
 # Build settings
 remote_theme: leutschenbach/minimal-mistakes
 
-header_pages: []
+# Navigation im Header
+header_pages:
+  - index.md
+  - gemeinschaftshaus.md
+  - kontakt.md
 
 plugins:
   - jekyll-include-cache

@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* adjustments for logo and title */
+a.site-title {
+  display: none;
+}
+
+a.site-logo {
+  max-height: 4rem;
+}
+
+a.site-logo img {
+  max-height: 4rem;
+}
+
+.masthead__inner-wrap {
+  padding: 0.5em;
+}
+
+/* larger hero image */
+.page__hero--overlay {
+  padding: 6em 0;
+}
