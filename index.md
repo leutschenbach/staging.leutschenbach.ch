@@ -2,8 +2,9 @@
 layout: splash
 title: "Verein Siedlung Leutschenbach"
 header:
-  overlay_color: "#2c6e49"
-  overlay_filter: "0.4"
+  # hacky to change background position
+  overlay_color: "#2c6e49; background-position: 90% 50%"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/index.jpg
   actions:
     - label: "Gemeinschaftshaus mieten"

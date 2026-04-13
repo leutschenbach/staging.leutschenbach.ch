@@ -4,7 +4,7 @@ title: "Impressum"
 permalink: /impressum/
 header:
   overlay_color: "#2c6e49"
-  overlay_filter: "0.4"
+  overlay_filter: "0.3"
 ---
 
 ### Verantwortlich für den Inhalt

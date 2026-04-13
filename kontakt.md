@@ -4,7 +4,7 @@ title: "Kontakt"
 permalink: /kontakt/
 header:
   overlay_color: "#2c6e49"
-  overlay_filter: "0.4"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/kontakt.jpg
 ---
 
