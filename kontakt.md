@@ -12,6 +12,19 @@ Haben Sie Fragen, Anregungen oder möchten Sie Mitglied werden? Wir freuen uns a
 
 ### Vorstand
 
+<style>
+table {
+  display: table;
+  width: 100%;
+}
+table th:first-of-type {
+  width: 40%;
+}
+table th:nth-of-type(2) {
+  width: 60%;
+}
+</style>
+
 | Name | Aufgabe |
 |---|---|
 | Michael Nievergelt | Präsident |
@@ -23,4 +36,4 @@ Haben Sie Fragen, Anregungen oder möchten Sie Mitglied werden? Wir freuen uns a
 
 **E-Mail:** [siedlung@leutschenbach.ch](mailto:siedlung@leutschenbach.ch)
 
-**Briefkasten** TODO Wo genau steht der? Bzw. haben wir eine Adresse? 😉
+**Briefkasten** Adresse folgt

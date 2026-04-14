@@ -20,3 +20,7 @@ Die Inhalte dieser Webseite werden mit grösster Sorgfalt erstellt. Für die Ric
 ### Urheberrecht
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem schweizerischen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ausserhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+
+### Credits
+
+Erstellt mit [Jekyll](https://jekyllrb.com){:target="_blank"} und [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/){:target="_blank"}.

@@ -23,51 +23,56 @@ Unser Gemeinschaftshaus steht allen Bewohnerinnen und Bewohnern der Siedlung Leu
 
 - Tische und Stühle
 - Küche mit Grundausstattung (Geschirr, Besteck, Gläser)
-- Kühlschrank, Geschirrspühler
+- Kühlschrank, Geschirrspüler
 - WC-Anlage
 
 ### Mietbedingungen
 
-- **Erwachsene Mieter*innen** (inkl. Gewerbe) **der Wohnsiedlung Leutschenbach**, nur für Eigenbedarf
+- **Erwachsene Mieter*innen** (inkl. Gewerbe) **der Wohnsiedlung Leutschenbach**, nur für den Eigenbedarf
 - Das Gemeinschaftshaus darf **nicht kommerziell** und **nicht für politische oder religiöse Veranstaltungen** genutzt werden.
 - Der Raum ist für **maximal 80 Personen** (inkl. Kinder) zugelassen.
 - Es stehen **keine Parkplätze** in der Siedlung zur Verfügung.
-- Der Gemeinschaftshaus ist in **sauberem und ordentlichem Zustand** zurückzugeben.
+- Das Gemeinschaftshaus ist in **sauberem und ordentlichem Zustand** zurückzugeben.
 - Die **Nachtruhe ab 22:00 Uhr** ist einzuhalten.
 - Im Gemeinschaftshaus ist **Rauchen verboten** und draussen sind Aschenbecher aufzustellen.
 - Das Depot kann zur **Deckung kleiner Schäden**, zur **Nachreinigung** teilweise oder ganz zurückbehalten werden.
 
-Mit der Unterzeichnung des Mietvertrags (TODO Link auf Dokument) akzeptiert die Mietpartei die Betriebsordnung.
+Mit der Unterzeichnung des [Mietvertrags]({{ site.url }}/download/260224_Mietvertrag_Gemeinschaftshaus.pdf) akzeptiert die Mietpartei die **Betriebsordnung**.
 
-### Mietkonditionen
+### Kosten
 
 <style>
-table th:first-of-type {
-    width: 20%;
+table {
+  display: table;
+  width: 100%;
 }
-table th:nth-of-type(2) {
-    width: 20%;
+table td:first-of-type {
+  width: 30%;
 }
-table th:nth-of-type(3) {
-    width: 50%;
+table td:nth-of-type(2) {
+  width: 70%;
 }
 </style>
 
-| | Kosten | |
-|---|---|---|---|
-| **Halber Tag** | *CHF 50* | bis zu 5 Stunden |
-| **Ganzer Tag** | *CHF 100* | |
-| **Depot** | *CHF 100* | Das Depot wird nach der ordnungsgemässen Haus- und Schlüsselabgabe zurückerstattet. |
+|---|---|
+| *CHF 10.-* | **pro Stunde** |
+| *CHF 50.-* | **ganzer Tag** (ab 5 Stunden) |
+| *CHF 100.-* | **an Festtagen** |
+| *CHF 100.-* | **Depot** (wird nach der ordnungsgemässen Haus- und Schlüsselabgabe zurückerstattet) |
 
-Feste und Angebote für die ganze Siedlung sind kostenlos.
+Für Angebote, die der ganzen Siedlung zur Verfügung stehen, ist die Nutzung kostenlos.
 
 ### Verfügbarkeit
+
+Für **private Anlässe** kann das Gemeinschaftshaus jeweils **Mittwoch 10 bis 20 Uhr** sowie **Samstag und Sonntag von 10 bis 22 Uhr** gemietet werden.
 
 Im folgenden Kalender werden bestehende Reservationen eingetragen.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&hl=de&showTz=0&showPrint=0&src=Y19iNWM1Zjc4ZGJjZTBhMmZiNGFiYzQ2MDZjMzMwNThlNGE0NzYyZjZlYTM5MDZlMTVmNDcwZGY5MmRjZWI4ZjRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986cb" style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no"></iframe>
 
 ### Reservation
+
+Reservationen werden **maximal 3 Monate im Voraus** akzeptiert.
 
 Möchten Sie das Gemeinschaftshaus mieten? Kontaktieren Sie uns:
 
