@@ -82,4 +82,4 @@ Möchten Sie das Gemeinschaftshaus mieten? Kontaktieren Sie uns:
 Bitte geben Sie folgende Angaben an:
 1. Gewünschtes Datum und Uhrzeit
 2. Art des Anlasses
-3. Name und Kontaktdaten
+3. Name, Adresse und Telefonnummer

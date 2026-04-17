@@ -35,5 +35,3 @@ table th:nth-of-type(2) {
 ### Kontakt
 
 **E-Mail:** [siedlung@leutschenbach.ch](mailto:siedlung@leutschenbach.ch)
-
-**Briefkasten** Adresse folgt

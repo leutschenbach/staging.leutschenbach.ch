@@ -3,7 +3,7 @@ email: "siedlung@leutschenbach.ch"
 description: >-
   Willkommen auf der Webseite des Vereins Siedlung Leutschenbach
 baseurl: ""
-url: "https://leutschenbach.ch"
+url: "https://staging.leutschenbach.ch"
 minimal_mistakes_skin: "default"
 logo: "/assets/images/logo.jpeg"
 
@@ -18,3 +18,6 @@ header_pages:
 
 plugins:
   - jekyll-include-cache
+
+atom_feed:
+  hide: true
